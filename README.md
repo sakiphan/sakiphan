@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Sakıp</h1>
-<h3 align="center">A passionate frontend developer from Turkey.</h3>
+<h3 align="center">A passionate software developer from Turkey.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakiphan&label=Profile%20views&color=0e75b6&style=flat" alt="sakiphan" /> </p>
 
-- 🌱 I’m currently learning **React Native** and **Swift**
 
 - 💬 Ask me about **React, Javascript**
 
-- 📫 How to reach me **sakiphdursun@gmail.com**
+- 📫 How to reach me **dursunsakiphan@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
