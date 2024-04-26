@@ -1,7 +1,7 @@
 # Hello there, I'm Sakıp Han Dursun 👋
 
 ## Connect with Me
- ,[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sakiphandursun/),[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@dursunsakiphan)
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sakiphandursun/)[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@dursunsakiphan)
 
 
 I am a software developer designing and building distributed, scalable systems using Go, Node.js and Javascript. My interests are in microservices and software development.
