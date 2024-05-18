@@ -19,4 +19,12 @@ I am a software developer and DevOps engineer, specializing in designing and bui
 - [**go-encryption**](https://github.com/sakiphan/go-encryption): This tool generates a random 10-digit password each time it is executed. It is written in Go and can be easily used on Mac OS via the zsh terminal..
 - [**Docker-Licence**](https://github.com/sakiphan/Docker-Licence): This project consists of a license control API and a simple calculator application. The calculator application shuts down when the license period expires.
 
+## DevOps Projects
+
+|  Name                  |                                                    Description                                                                       |
+| ----------------------- | :---------------------------------------------------------------------------------------------------------------------------------------: |
+|Docker-Licence            |[This project consists of a license control API and a simple calculator application. The calculator application shuts down when the license period expires.](https://github.com/sakiphan/Docker-Licence)
+|Tweet-Trend             |[This project utilizes Docker, Kubernetes, Ansible, Terraform, Maven, AWS, Prometheus, Grafana, Helm, and JFrog Artifactory to create a streamlined CI/CD pipeline for efficient, reliable deployment and maintenance of the Ttrend application on an AWS EC2 instance.](https://github.com/sakiphan/tweet-trend)
+|Terraform-aws-flask-instance              |[This Terraform module provisions an AWS EC2 instance with the latest Amazon Linux 2023 AMI and sets up Flask on it.](https://github.com/sakiphan/terraform-aws-flask-instance)
+|Go-encryption             |[This tool generates a random 10-digit password each time it is executed. It is written in Go and can be easily used on Mac OS via the zsh terminal](https://github.com/sakiphan/go-encryption)
 
