@@ -17,6 +17,6 @@ I am a software developer designing and building distributed, scalable systems u
 
 - [**terraform-aws-flask-instance**](https://github.com/sakiphan/terraform-aws-flask-instance): AThis Terraform module provisions an AWS EC2 instance with the latest Amazon Linux 2023 AMI and sets up Flask on it.
 - [**go-encryption**](https://github.com/sakiphan/go-encryption): This tool generates a random 10-digit password each time it is executed. It is written in Go and can be easily used on Mac OS via the zsh terminal..
-- [**Docker-Licence**]([https://github.com/sakiphan/go-encryption](https://github.com/sakiphan/Docker-Licence)): This project consists of a license control API and a simple calculator application. The calculator application shuts down when the license period expires.
+- [**Docker-Licence**]([https://github.com/sakiphan/Docker-Licence]): This project consists of a license control API and a simple calculator application. The calculator application shuts down when the license period expires.
 
 
