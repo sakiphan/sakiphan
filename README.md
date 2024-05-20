@@ -10,7 +10,7 @@ I am a software developer and DevOps engineer, specializing in designing and bui
 - **Language**: Go, JavaScript, TypeScript
 - **Framework**: React, React Native
 - **DevOps**: AWS, Docker, Kubernetes, Jenkins, Redis, Terraform, Nexus, GitLab, Ansible
-- **Logging and Montiroring**: Prometheus, Grafana
+- **Logging and Monitoring**: Prometheus, Grafana
 - **Database**: SQL, PostgreSQL / NoSQL (MongoDB, DynamoDB)
 
 ## ⭐️ More Open Source Projects
