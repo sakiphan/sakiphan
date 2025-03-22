@@ -8,8 +8,8 @@ I am a software developer and DevOps engineer, specializing in designing and bui
 
 ## 👨‍💻 Professional Skills
 - **Language**: Go, JavaScript
-- **DevOps**: AWS, Docker, Kubernetes, Jenkins, Redis, Terraform, Nexus, GitLab, Ansible
-- **Logging and Monitoring**: Prometheus, Grafana, Zabbix, Loki
+- **DevOps**: AWS, Docker, Kubernetes, Jenkins, Terraform, Nexus, GitLab, Ansible
+- **Logging and Monitoring**: Prometheus, Grafana, Zabbix, Loki, Kuma
 - **Database**: MSSQL, PostgreSQL / NoSQL (MongoDB, DynamoDB)
 
 ## ⭐️ More Open Source Projects
