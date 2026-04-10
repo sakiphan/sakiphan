@@ -17,8 +17,6 @@
 
 </div>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakiphan&layout=compact&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=8b949e&langs_count=6&card_width=280" width="300"/>
-
 ### Hey, I'm Sakıp
 
 I design and build the systems that run behind the scenes — cloud infrastructure, CI/CD pipelines, container orchestration, and everything in between.
@@ -29,8 +27,6 @@ I believe good infrastructure is invisible. If you notice it, something's wrong.
 - Distributed systems & microservices with Go
 - Kubernetes at scale
 - Making DevOps less painful for everyone
-
-<br clear="right"/>
 
 ---
 
