@@ -1,116 +1,180 @@
 <div align="center">
 
-<!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:00d4aa&height=220&section=header&text=Sakıp%20Han%20Dursun&fontSize=42&fontColor=00d4aa&fontAlignY=35&desc=DevOps%20Engineer%20%7C%20Cloud%20Architect%20%7C%20Platform%20Builder&descSize=16&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%"/>
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=800&size=36&duration=3000&pause=1000&color=E8E8E8&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=80&lines=SAK%C4%B0P+HAN+DURSUN" alt="Sakıp Han Dursun" />
 
 <br/>
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║  $ whoami                                                    ║
-║  > DevOps Engineer crafting resilient infrastructure         ║
-║  > Building bridges between development and operations       ║
-║  > Automating everything that can be automated               ║
-╚══════════════════════════════════════════════════════════════╝
-```
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Space+Mono&size=14&duration=4000&pause=2000&color=6E7681&center=true&vCenter=true&repeat=true&width=500&height=30&lines=building+infrastructure+that+doesn't+page+you+at+3am">
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=14&duration=4000&pause=2000&color=6E7681&center=true&vCenter=true&repeat=true&width=500&height=30&lines=building+infrastructure+that+doesn't+page+you+at+3am" alt="tagline"/>
+</picture>
 
-<br/>
+<br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sakiphandursun/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sakiphan)
+<a href="https://www.linkedin.com/in/sakiphandursun/">
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="28"/>
+</a>&nbsp;
+<a href="https://github.com/sakiphan">
+<img src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" height="28"/>
+</a>
+
+<br/><br/>
 
 </div>
 
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakiphan&layout=compact&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=8b949e&langs_count=6&card_width=280" width="300"/>
+
+### Hey, I'm Sakıp
+
+I design and build the systems that run behind the scenes — cloud infrastructure, CI/CD pipelines, container orchestration, and everything in between.
+
+I believe good infrastructure is invisible. If you notice it, something's wrong.
+
+**Currently focused on:**
+- Distributed systems & microservices with Go
+- Kubernetes at scale
+- Making DevOps less painful for everyone
+
+<br clear="right"/>
+
 ---
-
-### `> cat about.txt`
-
-I'm a **DevOps Engineer** specializing in designing and building distributed, scalable systems. I work across the full infrastructure stack — from provisioning cloud resources with Terraform to orchestrating containers with Kubernetes to building CI/CD pipelines that ship code reliably. Passionate about microservices architecture, observability, and making systems that heal themselves.
-
----
-
-### `> kubectl get skills -o wide`
 
 <div align="center">
-
-| Domain | Technologies |
-|:--|:--|
-| **Languages** | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white) |
-| **Cloud & IaC** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white) ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white) |
-| **Containers & Orchestration** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white) |
-| **CI/CD** | ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white) ![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white) |
-| **Observability** | ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white) ![Loki](https://img.shields.io/badge/Loki-F46800?style=flat-square&logo=grafana&logoColor=white) |
-| **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white) ![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white) |
-
-</div>
-
----
-
-### `> ls -la projects/`
+<br/>
 
 <table>
 <tr>
-<td width="50%">
-
-**[YAML Visualization](https://github.com/sakiphan/yaml-visualization)** `⭐ 13`
-<br/>
-<sub>Interactive YAML visualizer for complex configurations — making K8s manifests and CI pipelines readable at a glance.</sub>
-
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=go" width="40" height="40" alt="Go" /><br/>
+<sub><b>Go</b></sub>
 </td>
-<td width="50%">
-
-**[Claude DevOps Skills](https://github.com/sakiphan/claude-devops-skills)** `⭐ 9`
-<br/>
-<sub>DevOps skill plugins for Claude Code — CI/CD, Docker, Kubernetes, Terraform, monitoring, and infrastructure automation.</sub>
-
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=py" width="40" height="40" alt="Python" /><br/>
+<sub><b>Python</b></sub>
 </td>
-</tr>
-<tr>
-<td width="50%">
-
-**[SSL Checker](https://github.com/sakiphan/SSL-Checker)** `⭐ 7`
-<br/>
-<sub>Lightweight utility to check SSL certificate validity and expiration dates. Keep your domains secure and renewals on time.</sub>
-
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=js" width="40" height="40" alt="JavaScript" /><br/>
+<sub><b>JavaScript</b></sub>
 </td>
-<td width="50%">
-
-**[Tweet-Trend Pipeline](https://github.com/sakiphan/tweet-trend)** 
-<br/>
-<sub>End-to-end CI/CD pipeline using Docker, K8s, Ansible, Terraform, AWS, Prometheus, Grafana, Helm & JFrog Artifactory.</sub>
-
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=docker" width="40" height="40" alt="Docker" /><br/>
+<sub><b>Docker</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=kubernetes" width="40" height="40" alt="Kubernetes" /><br/>
+<sub><b>Kubernetes</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=terraform" width="40" height="40" alt="Terraform" /><br/>
+<sub><b>Terraform</b></sub>
 </td>
 </tr>
 <tr>
-<td width="50%">
-
-**[Terraform AWS Flask](https://github.com/sakiphan/terraform-aws-flask-instance)**
-<br/>
-<sub>Terraform module to provision an AWS EC2 instance with Amazon Linux 2023 and auto-configure Flask.</sub>
-
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=aws" width="40" height="40" alt="AWS" /><br/>
+<sub><b>AWS</b></sub>
 </td>
-<td width="50%">
-
-**[Docker Licence](https://github.com/sakiphan/Docker-Licence)** `⭐ 1`
-<br/>
-<sub>License control API with a calculator app that self-destructs when the license expires. Dockerized microservice pattern.</sub>
-
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=ansible" width="40" height="40" alt="Ansible" /><br/>
+<sub><b>Ansible</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=jenkins" width="40" height="40" alt="Jenkins" /><br/>
+<sub><b>Jenkins</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=prometheus" width="40" height="40" alt="Prometheus" /><br/>
+<sub><b>Prometheus</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=grafana" width="40" height="40" alt="Grafana" /><br/>
+<sub><b>Grafana</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" alt="PostgreSQL" /><br/>
+<sub><b>PostgreSQL</b></sub>
 </td>
 </tr>
 <tr>
-<td width="50%">
-
-**[CUDA Sentinel](https://github.com/sakiphan/cuda-sentinel)** `⭐ 1`
-<br/>
-<sub>GPU monitoring and alerting tool — keeping watch on your CUDA workloads.</sub>
-
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40" alt="MongoDB" /><br/>
+<sub><b>MongoDB</b></sub>
 </td>
-<td width="50%">
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=githubactions" width="40" height="40" alt="GH Actions" /><br/>
+<sub><b>GH Actions</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=gitlab" width="40" height="40" alt="GitLab" /><br/>
+<sub><b>GitLab CI</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=bash" width="40" height="40" alt="Bash" /><br/>
+<sub><b>Bash</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=linux" width="40" height="40" alt="Linux" /><br/>
+<sub><b>Linux</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=dynamodb" width="40" height="40" alt="DynamoDB" /><br/>
+<sub><b>DynamoDB</b></sub>
+</td>
+</tr>
+</table>
 
-**[Terraform AWS Redis](https://github.com/sakiphan/terraform-aws-redis-instance)**
 <br/>
-<sub>Terraform module for provisioning AWS Redis instances with production-ready defaults.</sub>
+</div>
 
+---
+
+### Things I've Built
+
+<table>
+<tr>
+<td width="33%">
+<h4><a href="https://github.com/sakiphan/yaml-visualization">yaml-visualization</a></h4>
+<sub>Interactive YAML visualizer that makes complex K8s manifests and CI configs actually readable.</sub>
+<br/><br/>
+<img src="https://img.shields.io/github/stars/sakiphan/yaml-visualization?style=flat&color=58a6ff&labelColor=1a1b27" />
+<img src="https://img.shields.io/github/language/top/sakiphan/yaml-visualization?style=flat&color=58a6ff&labelColor=1a1b27" />
+</td>
+<td width="33%">
+<h4><a href="https://github.com/sakiphan/claude-devops-skills">claude-devops-skills</a></h4>
+<sub>DevOps skill plugins for Claude Code — CI/CD, Docker, K8s, Terraform, monitoring automation.</sub>
+<br/><br/>
+<img src="https://img.shields.io/github/stars/sakiphan/claude-devops-skills?style=flat&color=58a6ff&labelColor=1a1b27" />
+<img src="https://img.shields.io/github/language/top/sakiphan/claude-devops-skills?style=flat&color=58a6ff&labelColor=1a1b27" />
+</td>
+<td width="33%">
+<h4><a href="https://github.com/sakiphan/SSL-Checker">SSL-Checker</a></h4>
+<sub>Check SSL certificate validity and expiration across your domains. Never miss a renewal again.</sub>
+<br/><br/>
+<img src="https://img.shields.io/github/stars/sakiphan/SSL-Checker?style=flat&color=58a6ff&labelColor=1a1b27" />
+<img src="https://img.shields.io/github/language/top/sakiphan/SSL-Checker?style=flat&color=58a6ff&labelColor=1a1b27" />
+</td>
+</tr>
+<tr>
+<td width="33%">
+<h4><a href="https://github.com/sakiphan/tweet-trend">tweet-trend</a></h4>
+<sub>Full CI/CD pipeline — Docker, K8s, Ansible, Terraform, AWS, Prometheus, Grafana, Helm, JFrog.</sub>
+<br/><br/>
+<img src="https://img.shields.io/github/language/top/sakiphan/tweet-trend?style=flat&color=58a6ff&labelColor=1a1b27" />
+</td>
+<td width="33%">
+<h4><a href="https://github.com/sakiphan/terraform-aws-flask-instance">terraform-aws-flask</a></h4>
+<sub>Terraform module — provisions EC2 with Amazon Linux 2023 and auto-configures Flask.</sub>
+<br/><br/>
+<img src="https://img.shields.io/github/language/top/sakiphan/terraform-aws-flask-instance?style=flat&color=58a6ff&labelColor=1a1b27" />
+</td>
+<td width="33%">
+<h4><a href="https://github.com/sakiphan/cuda-sentinel">cuda-sentinel</a></h4>
+<sub>GPU monitoring and alerting — keeps watch on your CUDA workloads so you don't have to.</sub>
+<br/><br/>
+<img src="https://img.shields.io/github/stars/sakiphan/cuda-sentinel?style=flat&color=58a6ff&labelColor=1a1b27" />
+<img src="https://img.shields.io/github/language/top/sakiphan/cuda-sentinel?style=flat&color=58a6ff&labelColor=1a1b27" />
 </td>
 </tr>
 </table>
@@ -118,34 +182,19 @@ I'm a **DevOps Engineer** specializing in designing and building distributed, sc
 ---
 
 <div align="center">
+<br/>
 
-### `> git log --oneline --graph`
+<img src="https://github-readme-stats.vercel.app/api?username=sakiphan&show_icons=true&hide_border=true&bg_color=00000000&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff&hide_title=true&hide_rank=true" width="420"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=sakiphan&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00d4aa&icon_color=00d4aa&text_color=8b949e&ring_color=00d4aa" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sakiphan&hide_border=true&background=0d1117&stroke=00d4aa&ring=00d4aa&fire=00d4aa&currStreakLabel=00d4aa&sideLabels=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" height="165"/>
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakiphan&layout=compact&hide_border=true&bg_color=0d1117&title_color=00d4aa&text_color=8b949e&langs_count=8" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sakiphan&hide_border=true&background=00000000&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6e7681" width="420"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sakiphan&bg_color=0d1117&color=00d4aa&line=00d4aa&point=c9d1d9&area=true&area_color=00d4aa&hide_border=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sakiphan&bg_color=00000000&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff&hide_border=true&custom_title=" width="90%"/>
 
-</div>
+<br/>
 
----
+<img src="https://komarev.com/ghpvc/?username=sakiphan&color=6e7681&style=flat&label=visitors" />
 
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════╗
-║  "Automate the boring stuff, engineer the interesting."      ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-<img src="https://komarev.com/ghpvc/?username=sakiphan&color=00d4aa&style=flat-square&label=Profile+Views" />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:00d4aa&height=100&section=footer" width="100%"/>
-
+<br/><br/>
 </div>
