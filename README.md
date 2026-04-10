@@ -2,22 +2,15 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=800&size=36&duration=3000&pause=1000&color=E8E8E8&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=80&lines=SAK%C4%B0P+HAN+DURSUN" alt="Sakıp Han Dursun" />
-
-<br/>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Space+Mono&size=14&duration=4000&pause=2000&color=6E7681&center=true&vCenter=true&repeat=true&width=500&height=30&lines=building+infrastructure+that+doesn't+page+you+at+3am">
   <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=14&duration=4000&pause=2000&color=6E7681&center=true&vCenter=true&repeat=true&width=500&height=30&lines=building+infrastructure+that+doesn't+page+you+at+3am" alt="tagline"/>
 </picture>
 
-<br/><br/>
+<br/>
 
 <a href="https://www.linkedin.com/in/sakiphandursun/">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="28"/>
-</a>&nbsp;
-<a href="https://github.com/sakiphan">
-<img src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" height="28"/>
 </a>
 
 <br/><br/>
@@ -139,21 +132,21 @@ I believe good infrastructure is invisible. If you notice it, something's wrong.
 <sub>Interactive YAML visualizer that makes complex K8s manifests and CI configs actually readable.</sub>
 <br/><br/>
 <img src="https://img.shields.io/github/stars/sakiphan/yaml-visualization?style=flat&color=58a6ff&labelColor=1a1b27" />
-<img src="https://img.shields.io/github/language/top/sakiphan/yaml-visualization?style=flat&color=58a6ff&labelColor=1a1b27" />
+<img src="https://img.shields.io/github/languages/top/sakiphan/yaml-visualization?style=flat&color=58a6ff&labelColor=1a1b27" />
 </td>
 <td width="33%">
 <h4><a href="https://github.com/sakiphan/claude-devops-skills">claude-devops-skills</a></h4>
 <sub>DevOps skill plugins for Claude Code — CI/CD, Docker, K8s, Terraform, monitoring automation.</sub>
 <br/><br/>
 <img src="https://img.shields.io/github/stars/sakiphan/claude-devops-skills?style=flat&color=58a6ff&labelColor=1a1b27" />
-<img src="https://img.shields.io/github/language/top/sakiphan/claude-devops-skills?style=flat&color=58a6ff&labelColor=1a1b27" />
+<img src="https://img.shields.io/github/languages/top/sakiphan/claude-devops-skills?style=flat&color=58a6ff&labelColor=1a1b27" />
 </td>
 <td width="33%">
 <h4><a href="https://github.com/sakiphan/SSL-Checker">SSL-Checker</a></h4>
 <sub>Check SSL certificate validity and expiration across your domains. Never miss a renewal again.</sub>
 <br/><br/>
 <img src="https://img.shields.io/github/stars/sakiphan/SSL-Checker?style=flat&color=58a6ff&labelColor=1a1b27" />
-<img src="https://img.shields.io/github/language/top/sakiphan/SSL-Checker?style=flat&color=58a6ff&labelColor=1a1b27" />
+<img src="https://img.shields.io/github/languages/top/sakiphan/SSL-Checker?style=flat&color=58a6ff&labelColor=1a1b27" />
 </td>
 </tr>
 <tr>
@@ -161,20 +154,20 @@ I believe good infrastructure is invisible. If you notice it, something's wrong.
 <h4><a href="https://github.com/sakiphan/tweet-trend">tweet-trend</a></h4>
 <sub>Full CI/CD pipeline — Docker, K8s, Ansible, Terraform, AWS, Prometheus, Grafana, Helm, JFrog.</sub>
 <br/><br/>
-<img src="https://img.shields.io/github/language/top/sakiphan/tweet-trend?style=flat&color=58a6ff&labelColor=1a1b27" />
+<img src="https://img.shields.io/github/languages/top/sakiphan/tweet-trend?style=flat&color=58a6ff&labelColor=1a1b27" />
 </td>
 <td width="33%">
 <h4><a href="https://github.com/sakiphan/terraform-aws-flask-instance">terraform-aws-flask</a></h4>
 <sub>Terraform module — provisions EC2 with Amazon Linux 2023 and auto-configures Flask.</sub>
 <br/><br/>
-<img src="https://img.shields.io/github/language/top/sakiphan/terraform-aws-flask-instance?style=flat&color=58a6ff&labelColor=1a1b27" />
+<img src="https://img.shields.io/github/languages/top/sakiphan/terraform-aws-flask-instance?style=flat&color=58a6ff&labelColor=1a1b27" />
 </td>
 <td width="33%">
 <h4><a href="https://github.com/sakiphan/cuda-sentinel">cuda-sentinel</a></h4>
 <sub>GPU monitoring and alerting — keeps watch on your CUDA workloads so you don't have to.</sub>
 <br/><br/>
 <img src="https://img.shields.io/github/stars/sakiphan/cuda-sentinel?style=flat&color=58a6ff&labelColor=1a1b27" />
-<img src="https://img.shields.io/github/language/top/sakiphan/cuda-sentinel?style=flat&color=58a6ff&labelColor=1a1b27" />
+<img src="https://img.shields.io/github/languages/top/sakiphan/cuda-sentinel?style=flat&color=58a6ff&labelColor=1a1b27" />
 </td>
 </tr>
 </table>
